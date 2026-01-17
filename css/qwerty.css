@@ -1,0 +1,35 @@
+#y {
+	/* color: #f26;
+  background-color: blueviolet;
+  font-size: 50px;
+  font-weight: 700 ;
+  font-style: italic;
+  text-indent: 60px;
+  letter-spacing: 5px;
+  line-height: 55px;
+  text-transform: lowercase;
+  text-decoration: overline line-through; */
+	/* margin-top: 55px;
+	margin-right: 100px;
+	margin-bottom: 900px;
+	margin-left: 444px; */
+	/* border: 90px solid yellow; */
+	border-top: 200px solid green;
+	border-right: 150px solid aqua;
+	border-bottom: 200px solid red;
+	border-left: 150px solid yellow;
+	padding: 100px;
+	padding-right: 120px;
+	padding-bottom: 100px;
+	padding-left: 120px;
+}
+h1 {
+	margin-top: 100px;
+	max-height: 100px;
+	max-width: 300px;
+}
+h2 {
+	margin-bottom: 100px;
+	min-height: 100px;
+  min-width: 100px;
+}
